@@ -24,7 +24,7 @@ export const Footer = () => {
               <a href="#" target="blank"><img src={navIcon3} alt="Twitter" /></a>
               <a href="https://x.com/Tauhidiam" target="blank"><img src={Twitter} alt="twitter"/></a>
             </div>
-            <p>@Nafiz Sizan <br />Copyright 2023. All Rights Reserved</p>
+            <p>@Md Tauhidul islam <br />Copyright 2024. All Rights Reserved</p>
           </Col>
         </Row>
       </Container>
